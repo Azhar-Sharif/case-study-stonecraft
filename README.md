@@ -1,31 +1,31 @@
-# Stonecraft Imports — Production Marketing Website
+# Stonecraft Imports — Product Website
 
 **Client:** Stonecraft Imports (Adelaide)  
-**Type:** Standalone product / marketing site  
 **Role:** Frontend engineer
 
 ## Live demo
 
 **[View live site →](https://monumental-taffy-505a44.netlify.app/)**
 
-Natural stone pavers, tiles, pool surrounds, walling, and showroom information — deployed on Netlify.
+I built and deployed the public website for Stonecraft Imports — a natural stone supplier in Adelaide — covering pavers, tiles, pool surrounds, walling, and showroom information.
 
 ## What I built
 
-A config-driven React site: theme, navigation, homepage, and catalogue content live in configuration modules so content can change without rewriting page components. SPA routing with Netlify redirects for deep links.
+- Full marketing / product website from scratch
+- Homepage, product catalogue pages, and showroom content
+- Responsive UI for desktop and mobile
+- Production deployment on Netlify with SPA routing
 
 ## Tech stack
 
 | Layer | Technologies |
 |-------|----------------|
 | Frontend | React 19, TypeScript, Vite 6, React Router 7, Tailwind CSS 4 |
-| Content | Config-driven (`site` / `home` / `catalog` / `theme`) |
-| Deploy | Netlify (`netlify.toml` — build, SPA redirects, cache headers) |
+| Deploy | Netlify |
 
 ## Proof
 
-- Live deployment: [monumental-taffy-505a44.netlify.app](https://monumental-taffy-505a44.netlify.app/)
-- Implementation notes and structure are documented here for portfolio review
+- Live site: [monumental-taffy-505a44.netlify.app](https://monumental-taffy-505a44.netlify.app/)
 
 ## Related
 
